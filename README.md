@@ -6,5 +6,6 @@
 
 # mass spring
 
-![3](https://user-images.githubusercontent.com/41245313/93550769-1d9e7500-f9a7-11ea-9217-d26bad88778e.png)
-![4](https://user-images.githubusercontent.com/41245313/93550772-2000cf00-f9a7-11ea-9b06-67fdc06bad63.png)
+![3](https://user-images.githubusercontent.com/41245313/93551418-c5687280-f9a8-11ea-8e58-96675816953b.png)
+![4](https://user-images.githubusercontent.com/41245313/93551419-c7cacc80-f9a8-11ea-8e91-1b8040a7c956.png)
+
